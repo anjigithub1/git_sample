@@ -1,2 +1,1 @@
-Sample github test
-Sample github test
+Modify the file after cloned from git repo
