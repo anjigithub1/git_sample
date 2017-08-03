@@ -12,3 +12,5 @@ Direct merging our code into master
 2.Second commit in master
 
 3.Bramch commit 1
+
+4.Branch commit 2
